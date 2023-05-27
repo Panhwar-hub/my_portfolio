@@ -34,7 +34,6 @@ import ML_Web from "./ML_Web.png";
 import MERN from "./MERN.png";
 
 export {
-  logo,
   Logo_PP,
   MERN,
   Java_Logo,
@@ -63,4 +62,5 @@ export {
   ML,
   Portfolio,
   ML_Web,
+  sepcoLogo,
 };
