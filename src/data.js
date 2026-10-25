@@ -7,7 +7,7 @@ export const profile = {
   email: "parvezpanhwar51@gmail.com",
   github: "https://github.com/Panhwar-hub",
   linkedin: "https://www.linkedin.com/in/panhwarparvez99/",
-  cv: "Parvez_Ali_CV.pdf",
+  cv: `Parvez_Ali_CV.pdf?v=${__BUILD_ID__}`,
   status: "Open to PhD positions",
 };
 
